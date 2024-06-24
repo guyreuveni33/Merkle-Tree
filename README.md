@@ -20,9 +20,8 @@ pip install cryptography
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/merkle-tree.git
+   git clone https://github.com/guyreuveni33/merkle-tree.git
    ```
-
 2. Navigate to the project directory:
 
    ```sh
