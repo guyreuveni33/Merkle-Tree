@@ -1,6 +1,9 @@
 # Merkle Tree with RSA Signature
 
 This repository contains a Python implementation of a Merkle Tree with functionalities for generating RSA keys, signing the Merkle Tree root, and verifying the signatures. The Merkle Tree ensures data integrity, while RSA provides cryptographic signing and verification.
+This project was developed as part of the course Communication Security.
+
+
 
 ## Prerequisites
 
